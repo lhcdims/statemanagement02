@@ -11,7 +11,7 @@ In this example, I use Redux to re-write the same example.
 
 ## Demo
 
-https://raw.githubusercontent.com/lhcdims/statemanagement01/master/images/FlutterStateManagement01.gif
+https://raw.githubusercontent.com/lhcdims/statemanagement02/master/images/sm02.gif
 
 
 ## To create this App Manually
