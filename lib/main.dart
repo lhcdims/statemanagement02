@@ -5,7 +5,7 @@
 
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import "package:threading/threading.dart";
+import 'package:threading/threading.dart';
 import 'package:flutter_redux/flutter_redux.dart';
 import 'package:redux/redux.dart';
 
